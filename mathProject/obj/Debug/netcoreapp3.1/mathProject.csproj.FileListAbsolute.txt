@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\mathProject\mathProject\bin\Debug\netcoreapp3.1\mathProject.exe
+C:\Users\Student\source\repos\mathProject\mathProject\bin\Debug\netcoreapp3.1\mathProject.deps.json
+C:\Users\Student\source\repos\mathProject\mathProject\bin\Debug\netcoreapp3.1\mathProject.runtimeconfig.json
+C:\Users\Student\source\repos\mathProject\mathProject\bin\Debug\netcoreapp3.1\mathProject.runtimeconfig.dev.json
+C:\Users\Student\source\repos\mathProject\mathProject\bin\Debug\netcoreapp3.1\mathProject.dll
+C:\Users\Student\source\repos\mathProject\mathProject\bin\Debug\netcoreapp3.1\mathProject.pdb
+C:\Users\Student\source\repos\mathProject\mathProject\obj\Debug\netcoreapp3.1\mathProject.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\mathProject\mathProject\obj\Debug\netcoreapp3.1\mathProject.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\mathProject\mathProject\obj\Debug\netcoreapp3.1\mathProject.AssemblyInfo.cs
+C:\Users\Student\source\repos\mathProject\mathProject\obj\Debug\netcoreapp3.1\mathProject.dll
+C:\Users\Student\source\repos\mathProject\mathProject\obj\Debug\netcoreapp3.1\mathProject.pdb
