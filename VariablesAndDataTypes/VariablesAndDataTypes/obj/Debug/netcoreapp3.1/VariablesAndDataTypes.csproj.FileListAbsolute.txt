@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.exe
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.deps.json
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\Student\Desktop\Basic_C#_Programs\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb

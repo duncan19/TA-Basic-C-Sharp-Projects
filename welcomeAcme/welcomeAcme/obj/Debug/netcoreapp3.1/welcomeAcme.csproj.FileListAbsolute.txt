@@ -1,0 +1,2 @@
+C:\Users\Student\Desktop\Basic_C#_Programs\welcomeAcme\welcomeAcme\obj\Debug\netcoreapp3.1\welcomeAcme.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Basic_C#_Programs\welcomeAcme\welcomeAcme\obj\Debug\netcoreapp3.1\welcomeAcme.AssemblyInfo.cs
