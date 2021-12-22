@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Desktop\\Basic_C#_Programs\\daily report\\daily report\\daily report.csproj": {}
+    "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\daily report\\daily report\\daily report.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Desktop\\Basic_C#_Programs\\daily report\\daily report\\daily report.csproj": {
+    "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\daily report\\daily report\\daily report.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\Basic_C#_Programs\\daily report\\daily report\\daily report.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\daily report\\daily report\\daily report.csproj",
         "projectName": "daily report",
-        "projectPath": "C:\\Users\\Student\\Desktop\\Basic_C#_Programs\\daily report\\daily report\\daily report.csproj",
+        "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\daily report\\daily report\\daily report.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\Basic_C#_Programs\\daily report\\daily report\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\daily report\\daily report\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",

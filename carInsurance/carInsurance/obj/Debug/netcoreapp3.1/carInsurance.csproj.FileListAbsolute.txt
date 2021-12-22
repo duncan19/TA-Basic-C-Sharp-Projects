@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\carInsurance\carInsurance\bin\Debug\netcoreapp3.1\carInsurance.exe
+C:\Users\Student\source\repos\carInsurance\carInsurance\bin\Debug\netcoreapp3.1\carInsurance.deps.json
+C:\Users\Student\source\repos\carInsurance\carInsurance\bin\Debug\netcoreapp3.1\carInsurance.runtimeconfig.json
+C:\Users\Student\source\repos\carInsurance\carInsurance\bin\Debug\netcoreapp3.1\carInsurance.runtimeconfig.dev.json
+C:\Users\Student\source\repos\carInsurance\carInsurance\bin\Debug\netcoreapp3.1\carInsurance.dll
+C:\Users\Student\source\repos\carInsurance\carInsurance\bin\Debug\netcoreapp3.1\carInsurance.pdb
+C:\Users\Student\source\repos\carInsurance\carInsurance\obj\Debug\netcoreapp3.1\carInsurance.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\carInsurance\carInsurance\obj\Debug\netcoreapp3.1\carInsurance.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\carInsurance\carInsurance\obj\Debug\netcoreapp3.1\carInsurance.AssemblyInfo.cs
+C:\Users\Student\source\repos\carInsurance\carInsurance\obj\Debug\netcoreapp3.1\carInsurance.dll
+C:\Users\Student\source\repos\carInsurance\carInsurance\obj\Debug\netcoreapp3.1\carInsurance.pdb
