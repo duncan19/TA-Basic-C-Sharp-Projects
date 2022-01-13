@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\loops\loops\bin\Debug\netcoreapp3.1\loops.exe
+C:\Users\Student\source\repos\loops\loops\bin\Debug\netcoreapp3.1\loops.deps.json
+C:\Users\Student\source\repos\loops\loops\bin\Debug\netcoreapp3.1\loops.runtimeconfig.json
+C:\Users\Student\source\repos\loops\loops\bin\Debug\netcoreapp3.1\loops.runtimeconfig.dev.json
+C:\Users\Student\source\repos\loops\loops\bin\Debug\netcoreapp3.1\loops.dll
+C:\Users\Student\source\repos\loops\loops\bin\Debug\netcoreapp3.1\loops.pdb
+C:\Users\Student\source\repos\loops\loops\obj\Debug\netcoreapp3.1\loops.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\loops\loops\obj\Debug\netcoreapp3.1\loops.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\loops\loops\obj\Debug\netcoreapp3.1\loops.AssemblyInfo.cs
+C:\Users\Student\source\repos\loops\loops\obj\Debug\netcoreapp3.1\loops.dll
+C:\Users\Student\source\repos\loops\loops\obj\Debug\netcoreapp3.1\loops.pdb
