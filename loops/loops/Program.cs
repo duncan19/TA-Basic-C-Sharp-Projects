@@ -26,6 +26,12 @@ namespace loops
                         break;
                     case 12:
                         Console.WriteLine("You guessed the number 12 that is correct");
+                        int i = 0;
+                        while (x < 10)
+                        {
+                            Console.WriteLine(x);
+                            x++;
+                        }
                         isGuessed = true;
                         break;
                     default:
