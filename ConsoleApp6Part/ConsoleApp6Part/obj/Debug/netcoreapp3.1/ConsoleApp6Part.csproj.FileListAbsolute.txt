@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\bin\Debug\netcoreapp3.1\ConsoleApp6Part.exe
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\bin\Debug\netcoreapp3.1\ConsoleApp6Part.deps.json
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\bin\Debug\netcoreapp3.1\ConsoleApp6Part.runtimeconfig.json
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\bin\Debug\netcoreapp3.1\ConsoleApp6Part.runtimeconfig.dev.json
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\bin\Debug\netcoreapp3.1\ConsoleApp6Part.dll
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\bin\Debug\netcoreapp3.1\ConsoleApp6Part.pdb
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\obj\Debug\netcoreapp3.1\ConsoleApp6Part.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\obj\Debug\netcoreapp3.1\ConsoleApp6Part.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\obj\Debug\netcoreapp3.1\ConsoleApp6Part.AssemblyInfo.cs
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\obj\Debug\netcoreapp3.1\ConsoleApp6Part.dll
+C:\Users\Student\source\repos\ConsoleApp6Part\ConsoleApp6Part\obj\Debug\netcoreapp3.1\ConsoleApp6Part.pdb
