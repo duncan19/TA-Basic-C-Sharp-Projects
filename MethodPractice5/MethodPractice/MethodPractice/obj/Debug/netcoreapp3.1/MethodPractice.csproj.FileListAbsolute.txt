@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.exe
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.deps.json
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.runtimeconfig.json
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.dll
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\bin\Debug\netcoreapp3.1\MethodPractice.pdb
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.AssemblyInfo.cs
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.dll
+C:\Users\Student\source\repos\MethodPractice\MethodPractice\obj\Debug\netcoreapp3.1\MethodPractice.pdb

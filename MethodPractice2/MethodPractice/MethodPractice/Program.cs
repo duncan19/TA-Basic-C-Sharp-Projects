@@ -18,7 +18,7 @@ namespace MethodPractice
             Console.WriteLine("Please chose a decimal number you wish to multiply by 3");
             decimalValue = Single.Parse(Console.ReadLine());
             Console.WriteLine("Please input a string number you wish to multiply by 2");
-            string userString = (Console.ReadLine());
+            string userString = Console.ReadLine();
 
 
             Calc calc = new Calc();
