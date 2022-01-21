@@ -33,7 +33,7 @@ namespace MethodPractice
             number = (number - 1);
             return number;
         }
-        public int twoNums(int number, int number2)
+        public int twoNums(int number, int number2 = 0)
         {
            int finNumber = (number - number2);
             return finNumber;

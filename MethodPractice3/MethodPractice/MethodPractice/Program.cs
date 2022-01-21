@@ -31,8 +31,7 @@ namespace MethodPractice
             }
             catch (FormatException)
             {
-                int userNum2 = 0;
-                Console.WriteLine(calc.twoNums(userNum1,userNum2));
+                Console.WriteLine(calc.twoNums(userNum1));
             }
 
 
