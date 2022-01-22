@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\bin\Debug\netcoreapp3.1\MethodNamesEx.exe
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\bin\Debug\netcoreapp3.1\MethodNamesEx.deps.json
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\bin\Debug\netcoreapp3.1\MethodNamesEx.runtimeconfig.json
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\bin\Debug\netcoreapp3.1\MethodNamesEx.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\bin\Debug\netcoreapp3.1\MethodNamesEx.dll
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\bin\Debug\netcoreapp3.1\MethodNamesEx.pdb
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\obj\Debug\netcoreapp3.1\MethodNamesEx.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\obj\Debug\netcoreapp3.1\MethodNamesEx.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\obj\Debug\netcoreapp3.1\MethodNamesEx.AssemblyInfo.cs
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\obj\Debug\netcoreapp3.1\MethodNamesEx.dll
+C:\Users\Student\source\repos\MethodNamesEx\MethodNamesEx\obj\Debug\netcoreapp3.1\MethodNamesEx.pdb
