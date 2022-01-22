@@ -54,6 +54,26 @@ namespace MethodPractice
         {
             return num1 + num2;
         }
+            public void getValues(out int x, out int y)
+            {
+                Console.WriteLine("Enter the first number: ");
+                x = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Enter the second number: ");
+                y = Convert.ToInt32(Console.ReadLine());
+            }
+        public class helloTest
+        {
+            public static void helloM()
+            {
+                Console.WriteLine("Hello");
+            }
+            static void Main()
+            {
+                helloTest.helloM();
+                Console.ReadKey();
+            }
+        }
     }
 }
 
