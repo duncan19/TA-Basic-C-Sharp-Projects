@@ -4,6 +4,10 @@ using System.Text;
 
 namespace MethodPractice
 {
+    public static class Calc2
+    {
+        public static string Color = "red";
+    }
     class Calc
     {
         public int Mult(int number)
@@ -23,27 +27,7 @@ namespace MethodPractice
            return firstNum * 4;
            
         }
-        public int Div(int number)
-        {
-            number = (number / 3);
-            return number;
-        }
-        public int Sub(int number)
-        {
-            number = (number - 1);
-            return number;
-        }
-        public int twoNums(int number, int number2)
-        {
-           int finNumber = (number - number2);
-            return finNumber;
-        }
-        public void twoNums2(int num1, int num2)
-        {
-            int finNum = num1 * 2;
-            Console.WriteLine(num2);
 
-        }
         public void Div2(int number)
         {
             Console.WriteLine(number);
@@ -62,18 +46,7 @@ namespace MethodPractice
                 Console.WriteLine("Enter the second number: ");
                 y = Convert.ToInt32(Console.ReadLine());
             }
-        public class helloTest
-        {
-            public static void helloM()
-            {
-                Console.WriteLine("Hello");
-            }
-            static void Main()
-            {
-                helloTest.helloM();
-                Console.ReadKey();
-            }
-        }
+        
     }
 }
 
