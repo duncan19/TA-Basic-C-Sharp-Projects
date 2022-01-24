@@ -23,7 +23,7 @@ namespace MethodPractice
             calc.Mult(userNum1);
             calc.Mult(userString);
             Console.WriteLine(calc.Mult(userNum1));
-            Calc.helloTest();
+            Calc2.Color = "Blue";       
         }
 
 
