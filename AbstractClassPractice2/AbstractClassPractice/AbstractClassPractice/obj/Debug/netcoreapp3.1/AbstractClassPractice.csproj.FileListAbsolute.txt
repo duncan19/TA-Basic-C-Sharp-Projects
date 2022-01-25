@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\obj\Debug\netcoreapp3.1\AbstractClassPractice.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\obj\Debug\netcoreapp3.1\AbstractClassPractice.AssemblyInfo.cs
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\bin\Debug\netcoreapp3.1\AbstractClassPractice.exe
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\bin\Debug\netcoreapp3.1\AbstractClassPractice.deps.json
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\bin\Debug\netcoreapp3.1\AbstractClassPractice.runtimeconfig.json
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\bin\Debug\netcoreapp3.1\AbstractClassPractice.runtimeconfig.dev.json
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\bin\Debug\netcoreapp3.1\AbstractClassPractice.dll
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\bin\Debug\netcoreapp3.1\AbstractClassPractice.pdb
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\obj\Debug\netcoreapp3.1\AbstractClassPractice.dll
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\obj\Debug\netcoreapp3.1\AbstractClassPractice.pdb
+C:\Users\Student\source\repos\AbstractClassPractice\AbstractClassPractice\obj\Debug\netcoreapp3.1\AbstractClassPractice.csprojAssemblyReference.cache
