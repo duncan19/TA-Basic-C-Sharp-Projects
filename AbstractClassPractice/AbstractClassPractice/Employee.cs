@@ -8,8 +8,8 @@ namespace AbstractClassPractice
     {
         public override void SayName()
         {
-            Console.WriteLine("The Employee's name is :");
-            base.SayName();
+            Console.WriteLine("The Employee's name is :" +firstName + " " + lastName);
+            
         }
     }
 }

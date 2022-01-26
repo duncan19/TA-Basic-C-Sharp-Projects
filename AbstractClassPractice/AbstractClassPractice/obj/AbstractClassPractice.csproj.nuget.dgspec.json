@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\source\\repos\\AbstractClassPractice\\AbstractClassPractice\\AbstractClassPractice.csproj": {}
+    "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\AbstractClassPractice\\AbstractClassPractice\\AbstractClassPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\source\\repos\\AbstractClassPractice\\AbstractClassPractice\\AbstractClassPractice.csproj": {
+    "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\AbstractClassPractice\\AbstractClassPractice\\AbstractClassPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\source\\repos\\AbstractClassPractice\\AbstractClassPractice\\AbstractClassPractice.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\AbstractClassPractice\\AbstractClassPractice\\AbstractClassPractice.csproj",
         "projectName": "AbstractClassPractice",
-        "projectPath": "C:\\Users\\Student\\source\\repos\\AbstractClassPractice\\AbstractClassPractice\\AbstractClassPractice.csproj",
+        "projectPath": "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\AbstractClassPractice\\AbstractClassPractice\\AbstractClassPractice.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\source\\repos\\AbstractClassPractice\\AbstractClassPractice\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\GitHub\\TA-Basic-C-Sharp-Projects\\AbstractClassPractice\\AbstractClassPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
