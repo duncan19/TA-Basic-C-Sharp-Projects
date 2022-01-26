@@ -11,7 +11,7 @@ namespace AbstractClassPractice
             Console.WriteLine("The Employee's name is :");
             base.SayName();
         }
-        public void Quit()
+        public void Quit(Person person)
         {
             Console.WriteLine(this.firstName + " "+ this.lastName +" has Quit");
         }

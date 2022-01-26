@@ -6,6 +6,6 @@ namespace AbstractClassPractice
 {
     interface IQuittable
     {
-        void Quit();
+        void Quit(Person person);
     }
 }
