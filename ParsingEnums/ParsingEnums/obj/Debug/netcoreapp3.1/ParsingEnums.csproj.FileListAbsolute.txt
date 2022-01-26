@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.exe
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.deps.json
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.json
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.runtimeconfig.dev.json
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.dll
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\bin\Debug\netcoreapp3.1\ParsingEnums.pdb
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.AssemblyInfo.cs
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.dll
+C:\Users\Student\source\repos\ParsingEnums\ParsingEnums\obj\Debug\netcoreapp3.1\ParsingEnums.pdb
