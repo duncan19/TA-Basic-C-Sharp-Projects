@@ -7,11 +7,14 @@ namespace AbstractClassPractice
         static void Main(string[] args)
         {
             Employee employee = new Employee();
+            IQuittable quittable = new Employee();
+
 
             employee.firstName = "Sample";
             employee.lastName = "Student";
             employee.SayName();
-            employee.Quit(employee);
+            quittable.Quit();
+            
 
         }
     }

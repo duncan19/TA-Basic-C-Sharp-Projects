@@ -4,16 +4,16 @@ using System.Text;
 
 namespace AbstractClassPractice
 {
-    class Employee : Person, IQuittable
+    public class Employee : Person, IQuittable
     {
         public override void SayName()
         {
-            Console.WriteLine("The Employee's name is :");
-            base.SayName();
+            Console.WriteLine("The Employee's name is :" +firstName);
+            
         }
-        public void Quit(Person person)
+        public void Quit()
         {
-            Console.WriteLine(this.firstName + " "+ this.lastName +" has Quit");
+            Console.WriteLine("I Quit");
         }
     }
 }
