@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\bin\Debug\netcoreapp3.1\LambdaPractice.exe
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\bin\Debug\netcoreapp3.1\LambdaPractice.deps.json
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\bin\Debug\netcoreapp3.1\LambdaPractice.runtimeconfig.json
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\bin\Debug\netcoreapp3.1\LambdaPractice.runtimeconfig.dev.json
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\bin\Debug\netcoreapp3.1\LambdaPractice.dll
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\bin\Debug\netcoreapp3.1\LambdaPractice.pdb
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\obj\Debug\netcoreapp3.1\LambdaPractice.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\obj\Debug\netcoreapp3.1\LambdaPractice.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\obj\Debug\netcoreapp3.1\LambdaPractice.AssemblyInfo.cs
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\obj\Debug\netcoreapp3.1\LambdaPractice.dll
+C:\Users\Student\source\repos\LambdaPractice\LambdaPractice\obj\Debug\netcoreapp3.1\LambdaPractice.pdb
