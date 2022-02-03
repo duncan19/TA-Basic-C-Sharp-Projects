@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.exe
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.deps.json
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.runtimeconfig.json
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.runtimeconfig.dev.json
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.dll
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.pdb
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.AssemblyInfo.cs
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.dll
+C:\Users\Student\source\repos\DateTimePractice\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.pdb
