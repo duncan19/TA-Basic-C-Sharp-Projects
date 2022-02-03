@@ -1,0 +1,11 @@
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.exe
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.deps.json
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.runtimeconfig.json
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.runtimeconfig.dev.json
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.dll
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\bin\Debug\netcoreapp3.1\ConstructorPractice.pdb
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.AssemblyInfo.cs
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.dll
+C:\Users\Student\Documents\GitHub\TA-Basic-C-Sharp-Projects\ConstructorPractice\ConstructorPractice\obj\Debug\netcoreapp3.1\ConstructorPractice.pdb
